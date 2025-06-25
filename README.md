@@ -90,4 +90,14 @@ Improvements:
 2. Here I have a made a assumption about ships starting time from the port, but I would eventually want the user to provide the ship's desired starting time
 and track the vessel's location and also include the timestamps in the query section to be more precise in the response than just on the mmsi based queries.
 ```
+---
 
+## 📧 Contact  
+
+If you have questions, suggestions, or just want to connect, feel free to reach out!  
+
+- **Name**: Manoj Kumar.CM  
+- **Email**: [manoj.kumar@dsai.iitm.ac.in]  
+- **GitHub Profile**: [Manoj Kumar C M](https://github.com/MANOJKUMAR-CM)  
+
+Happy coding! 🚀
